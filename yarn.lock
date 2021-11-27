@@ -3145,7 +3145,7 @@ builtin-status-codes@^3.0.0:
 
 bulma@^0.9.3:
   version "0.9.3"
-  resolved "https://registry.npmjs.org/bulma/-/bulma-0.9.3.tgz#ddccb7436ebe3e21bf47afe01d3c43a296b70243"
+  resolved "https://registry.yarnpkg.com/bulma/-/bulma-0.9.3.tgz#ddccb7436ebe3e21bf47afe01d3c43a296b70243"
   integrity sha512-0d7GNW1PY4ud8TWxdNcP6Cc8Bu7MxcntD/RRLGWuiw/s0a9P+XlH/6QoOIrmbj6o8WWJzJYhytiu9nFjTszk1g==
 
 bytes@3.0.0:
@@ -9164,7 +9164,7 @@ react-app-polyfill@^2.0.0:
 
 react-bulma-components@4.0.7:
   version "4.0.7"
-  resolved "https://registry.npmjs.org/react-bulma-components/-/react-bulma-components-4.0.7.tgz#b50b2f02b4332d3debf7a974fcae679aa49157d1"
+  resolved "https://registry.yarnpkg.com/react-bulma-components/-/react-bulma-components-4.0.7.tgz#b50b2f02b4332d3debf7a974fcae679aa49157d1"
   integrity sha512-F6dsnkKWQU+dtaLO2gB+0RSbPBQAPIhzjn5C3SvUab7qJXlCM3mqy8+Rqc4j5UZdvfRjqwl4MKpkYSTAX6Z2ag==
   dependencies:
     classnames "2.3.1"
