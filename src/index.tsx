@@ -9,7 +9,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 const client = new ApolloClient({
-  uri: 'https://localhost:7298/graphql',
+  uri: 'https://graph-api-demo.azurewebsites.net/graphql',
   cache: new InMemoryCache()
 });
 
