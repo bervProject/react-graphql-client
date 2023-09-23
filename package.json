@@ -9,7 +9,7 @@
     "@testing-library/user-event": "^14.5.1",
     "@types/jest": "^29.5.5",
     "@types/node": "^20.6.3",
-    "@types/react": "^18.2.21",
+    "@types/react": "^18.2.22",
     "@types/react-dom": "^18.2.7",
     "bulma": "^0.9.4",
     "graphql": "^16.8.1",
