@@ -17,7 +17,7 @@
     "react-bulma-components": "4.1.0",
     "react-dom": "^18.3.1",
     "react-scripts": "^5.0.1",
-    "typescript": "^5.7.2",
+    "typescript": "^5.7.3",
     "web-vitals": "^4.2.4"
   },
   "scripts": {
